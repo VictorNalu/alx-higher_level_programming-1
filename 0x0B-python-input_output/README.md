@@ -1,6 +1,6 @@
 # Python - Input/Output
 
-In this project, I practiced file handling in Python. I used the builtin `with`, `open`, and `read` functions with the `json` module to read and write files and serialize and deserialize objects with JSON.
+In this project, I practised file handling in Python. I used the builtin `with`, `open`, and `read` functions with the `JSON` module to read and write files and serialize and deserialize objects with JSON.
 
 
 ## Function Prototypes :floppy_disk:
